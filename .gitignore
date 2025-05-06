@@ -178,3 +178,5 @@ cython_debug/
 *.html
 
 samples/
+
+01sim_*
